@@ -1,6 +1,6 @@
 # Olá, eu sou a Hayeska 👋
 
-Desenvolvedora front-end. Gosto de transformar ideias em interfaces simples de usar, com código organizado e em português.
+Desenvolvedora front-end. Gosto de transformar ideias em interfaces simples de usar, com código organizado.
 
 ## 🛠️ Tecnologias
 
