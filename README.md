@@ -13,8 +13,6 @@ Desenvolvedora front-end. Gosto de transformar ideias em interfaces simples de u
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Também já trabalhei com **Python e Django** no back-end.
-
 ## 🚀 Projetos em destaque
 
 | Projeto | O que é | Tecnologias | |
