@@ -18,6 +18,7 @@ Desenvolvedora front-end. Gosto de transformar ideias em interfaces simples de u
 
 | Projeto | O que é | Tecnologias | |
 |---|---|---|---|
+| **commandAI** | Sistema de vendas e comandas para bares e restaurantes, feito em equipe. Sou responsável pelo front-end: criei a base do app e o design system e fiz as telas de visão geral, login, produtos, adicionais, categorias e configurações, todas integradas à API | React, TypeScript, TanStack Query, React Hook Form, Zod, Radix UI, Tailwind | 🔒 Privado |
 | [**FinanceFlow**](https://github.com/haayeska/FinanceFlow) | Controle financeiro com receitas, despesas, saldo e gráfico por categoria | React, Context API, React Router, json-server | |
 | [**Calculadora**](https://github.com/haayeska/Calculadora) | Calculadora com parênteses, porcentagem e atalhos de teclado, usando um analisador próprio em vez de `eval()` | React, TypeScript, Tailwind | [Abrir ↗](https://haayeska.github.io/Calculadora/) |
 | [**Bloco de Notas**](https://github.com/haayeska/bloco-de-notas) | Lista de tarefas com categorias, filtros e salvamento no navegador | React, TypeScript, Tailwind | [Abrir ↗](https://haayeska.github.io/bloco-de-notas/) |
